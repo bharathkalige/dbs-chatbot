@@ -1,0 +1,23 @@
+tr:nth-child(even) {
+    background-color: white;
+    text-align: center;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 2px;
+  }
+  .trhead{
+    background-color: black; 
+    color:white;
+    object-fit: inherit;
+    font-size: 30px;
+    border-radius: 25px;
+  }
